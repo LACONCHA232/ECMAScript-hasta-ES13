@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Diego Diaz De La Conchha",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
